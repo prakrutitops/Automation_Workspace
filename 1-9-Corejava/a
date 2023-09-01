@@ -1,1 +1,14 @@
+data type:
+integer -> int -> numeric value
+float-> float -> decimal value[4 byte]
+Character-> char -> character format
+double->double -> decimal value[8 byte]
+String->String -> anything 
+boolean-> boolean -> true,false
+
+variables:
+
+int a;
+data_type variable;
+
 
