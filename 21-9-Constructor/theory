@@ -1,0 +1,19 @@
+Constructor: Method Having same as a classname
+
+//method
+void display()
+{
+
+}
+
+types of constructor
+1)Default-without argument
+2)Para
+3)Copy
+
+this - refrence keyword
+
+static - fixed
+same memory allocation
+
+
