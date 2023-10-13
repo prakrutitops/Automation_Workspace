@@ -1,0 +1,44 @@
+Collection:Methods,Classes,Interfaces
+
+Interface:
+
+1)
+List:
+
+ArrayList
+LinkedList
+
+2)
+Set:
+HashSet
+LinkedHashset
+
+3)
+Map:
+HashMap
+
+add
+addAll
+remove
+removeAll
+retainAll
+
+List -> Get All Details
+Set -> Only Get Unique Values and remove duplicate elements
+Map -> Key and value pair
+
+
+for
+while
+do while
+for each
+
+Generics Method
+Interface:
+
+Comparable
+Comparator
+
+compare
+compareTo
+
